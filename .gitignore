@@ -1,0 +1,6 @@
+.hg
+mbed-os/*
+BUILD/*
+.mbed
+mbed-os
+*.py*
